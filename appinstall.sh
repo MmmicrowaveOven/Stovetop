@@ -19,7 +19,7 @@ yay_install() {
 }
 
 install_apps() {
-	paru -S --needed --noconfirm lightdm lightdm0gtk-greeter niri quickshell pipewire pipewire-pulse pipewire-jack wireplumber qpwgraph guitarix timeshift firefox guitarix bitwig-studio steam ntsync-autoload alacritty fuzzel gedit
+	paru -S --needed --noconfirm lightdm lightdm0gtk-greeter niri quickshell pipewire pipewire-pulse pipewire-jack wireplumber qpwgraph guitarix timeshift firefox guitarix bitwig-studio steam ntsync-autoload alacritty fuzzel gedit yazi
 }
 
 setup_system() {
